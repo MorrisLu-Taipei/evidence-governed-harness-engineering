@@ -78,3 +78,10 @@
 
 ---
 *維護:每有進展就在「二、Research Log」加一條日期條目,並同步「一、儀表板」的 gate 狀態。*
+
+## 2026-07-20 · Zenodo DOI published (v3.4)
+- **DOI:** 10.5281/zenodo.21390753 — https://doi.org/10.5281/zenodo.21390753
+- Record: https://zenodo.org/records/21390753 · Working paper · Open access · CC BY 4.0
+- Files: Mechanical_Gates_over_Model_Consensus_v3.4_EN.pdf + CITATION.cff + LICENSE
+- Backfilled DOI into: CITATION.cff (identifiers), landing page, README badge, this log
+- TODO: add author ORCID 0009-0006-5373-0586 to the Zenodo record (currently no ORCID on record); import to ORCID via DataCite Search&link

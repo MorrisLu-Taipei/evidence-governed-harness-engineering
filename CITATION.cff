@@ -9,8 +9,8 @@ authors:
     given-names: Yeh-Hsing
     affiliation: "Tiger AI Tech Co., Ltd., Taiwan"
     orcid: "https://orcid.org/0009-0006-5373-0586"
-version: "3.3"
-date-released: "2026-07-17"
+version: "3.4"
+date-released: "2026-07-19"
 license: CC-BY-4.0
 keywords:
   - Agentic AI
@@ -25,7 +25,7 @@ keywords:
   - DevSecOps
   - data sovereignty
 abstract: >-
-  A v3.3 working paper positioning evidence-governed harness engineering as
+  A v3.4 working paper positioning evidence-governed harness engineering as
   the control and verification layer for agentic software development. It maps
   the full software development life cycle onto a governable, auditable
   multi-agent pipeline and studies a "shared-context false pass", a correlated
@@ -38,7 +38,9 @@ abstract: >-
   project into a reusable, verifiable Skill. This is a working paper; core
   claims are labelled as research hypotheses pending EXP-001 / EXP-002 (no
   validated findings yet).
-# Add the minted Zenodo DOI here after publication:
-# identifiers:
-#   - type: doi
-#     value: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.21390753"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21390753"
+    description: "Zenodo working-paper DOI (v3.4)"
+url: "https://doi.org/10.5281/zenodo.21390753"

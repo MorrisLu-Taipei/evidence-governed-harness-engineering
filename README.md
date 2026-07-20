@@ -13,9 +13,11 @@
 
 > **Vibe coding creates applications; harness engineering makes them governable.**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21390753.svg)](https://doi.org/10.5281/zenodo.21390753)
+
 **Author:** Yeh-Hsing (Morris) Lu — Tiger AI Tech Co., Ltd., Taiwan
 **ORCID:** [0009-0006-5373-0586](https://orcid.org/0009-0006-5373-0586)
-**Status:** Working Paper (v3.3) · controlled experiments not yet complete · Zenodo DOI forthcoming
+**Status:** Working Paper (v3.4) · controlled experiments not yet complete · Zenodo DOI 10.5281/zenodo.21390753
 **License:** CC BY 4.0
 
 ---
@@ -31,7 +33,7 @@ A working paper proposing an **evidence-governed harness** — a control, verifi
 
 ## Read the paper
 
-- **Working paper (PDF):** [`06_Publication/Mechanical_Gates_over_Model_Consensus_v3.3_EN.pdf`](06_Publication/Mechanical_Gates_over_Model_Consensus_v3.3_EN.pdf)
+- **Working paper (PDF):** [`06_Publication/Mechanical_Gates_over_Model_Consensus_v3.4_EN.pdf`](06_Publication/Mechanical_Gates_over_Model_Consensus_v3.4_EN.pdf)
 - **Landing page (bilingual ZH/EN):** [`index.html`](index.html)
 - **How to cite:** [`CITATION.cff`](CITATION.cff)
 
@@ -45,8 +47,8 @@ Produced with a multi-engine AI workflow (Claude / Codex / Gemini) assisting dra
 
 ```
 Lu, Y.-H. (2026). Mechanical Gates over Model Consensus: Evidence-Governed
-Harness Engineering for Agentic Software Development (v3.3, Working Paper).
-Zenodo. DOI: forthcoming. License: CC BY 4.0.
+Harness Engineering for Agentic Software Development (v3.4, Working Paper).
+Zenodo. DOI: 10.5281/zenodo.21390753. License: CC BY 4.0.
 ```
 
 ## Repository contents
